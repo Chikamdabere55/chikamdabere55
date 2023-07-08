@@ -1,4 +1,5 @@
 ### Hi there 👋
+my name is Ahamefula Joash am currently working for Senetic.
 
 <!--
 **Chikamdabere55/chikamdabere55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
